@@ -401,6 +401,27 @@
     ]
   },
   {
+  "username": "theavidcoder",
+  "stack": [
+    "HTML",
+    "CSS",
+    "Bootstrap",
+    "JavaScript",
+    "Zeit",
+    "Netlify",
+    "C",
+    "Python",
+    "MySQL",
+  ],
+  "setup": [
+    "Mozilla Firefox",
+    "Visual Studio Code",
+    "Ubuntu",
+    "Windows",    
+  ]
+}
+
+  {
     "username": "great_classyk",
     "stack": [
       ".NET",
